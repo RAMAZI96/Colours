@@ -1,0 +1,40 @@
+.sigrdze{
+    position: relative;
+  width:171ch;
+    height: 50px;
+    left:-8px;
+    background-color: blueviolet;
+  top:-25px;
+  }
+  body{
+    background-color: aquamarine;
+  }
+  .yuti{
+  position:relative;
+  width: 250px;
+  height: 50px;
+  top:200px;
+  background-color: black;
+  border: 1px solid white;
+  color: white;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  border-radius: 20px;
+  
+  }
+  .back{
+    position: relative;
+    top:25px;
+  }
+  .botton{
+    position: relative;
+    width:100px;
+    height:24px;
+    background-color: black;
+    border: 1px solid yellow;
+    top:350px;
+    color:aliceblue;
+    border-radius: 15px;
+    
+  }
